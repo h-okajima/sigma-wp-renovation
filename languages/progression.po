@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: renovation/inc/template-tags.php:180
+msgid "%1$s %2$s"
+msgstr ""
+
+#. Text in function
+#: renovation/comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/template-tags.php:1
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/template-tags.php:73
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: renovation/image.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/template-tags.php:64
+msgid "<span>&larr;</span> Previous Article"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:230
+#: renovation/widgets/latest-service-posts.php:230
+#: renovation/widgets/latest-blog-posts.php:217
+#: renovation/widgets/single-highlight.php:172
+#: renovation/widgets/latest-portfolio-posts.php:230
+msgid "Add Image"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Align logo to the left instead of center"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive.php:17
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive.php:17
+msgid "Asides"
+msgstr ""
+
+#. Text in function
+#: renovation/archive.php:17
+msgid "Author: %s"
+msgstr ""
+
+#. Text in function
+#: renovation/content-single-portfolio.php:64
+msgid "Back to Portfolio"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Background Colors"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Body Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Body Font Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Button Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Button Font Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Button Hover Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Button Hover Font Color"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:213
+#: renovation/widgets/latest-service-posts.php:213
+#: renovation/widgets/latest-blog-posts.php:197
+#: renovation/widgets/single-highlight.php:151
+#: renovation/widgets/latest-portfolio-posts.php:213
+msgid "Button Icon"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:208
+#: renovation/widgets/latest-service-posts.php:208
+#: renovation/widgets/latest-blog-posts.php:192
+#: renovation/widgets/single-highlight.php:146
+#: renovation/widgets/latest-portfolio-posts.php:208
+msgid "Button Link"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:203
+#: renovation/widgets/latest-service-posts.php:203
+#: renovation/widgets/latest-blog-posts.php:187
+#: renovation/widgets/single-highlight.php:141
+#: renovation/widgets/latest-portfolio-posts.php:203
+msgid "Button Text"
+msgstr ""
+
+#. Text in echo
+#: renovation/content-blog-home.php:63
+#: renovation/content-single.php:59
+#: renovation/content.php:63
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-blog-posts.php:236
+msgid "Check box for light heading"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:250
+#: renovation/widgets/latest-service-posts.php:250
+#: renovation/widgets/latest-portfolio-posts.php:250
+msgid "Check box for light heading text"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/single-highlight.php:191
+msgid "Check box for light text color"
+msgstr ""
+
+#. Text in echo
+#: renovation/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: renovation/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: renovation/content-blog-home.php:77
+#: renovation/content.php:77
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Copyright Text"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Display comments for pages?"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/social-widget.php:159
+msgid "E-mail Address"
+msgstr ""
+
+#. Text in function
+#: renovation/content-page.php:18
+#: renovation/inc/template-tags.php:170
+#: renovation/inc/template-tags.php:198
+#: renovation/content-single.php:76
+#: renovation/image.php:27
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-blog-posts.php:168
+msgid "Filter by Category"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/flickr-widget.php:105
+msgid "Flickr ID: (Find from"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Font Colors"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Footer Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Footer Column Count (1-4)"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Footer Widgets"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Footer widgets"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Header Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Headings Font Color"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Home: Widgets on all Pages"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Homepage Widgets"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive.php:17
+msgid "Images"
+msgstr ""
+
+#. Text in echo
+#: renovation/404.php:23
+msgid "It looks like nothing was found at this location. Maybe try and search?"
+msgstr ""
+
+#. Text in echo
+#: renovation/no-results.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/social-widget.php:119
+#: renovation/widgets/social-widget.php:124
+#: renovation/widgets/social-widget.php:129
+#: renovation/widgets/social-widget.php:134
+#: renovation/widgets/social-widget.php:139
+#: renovation/widgets/social-widget.php:144
+#: renovation/widgets/social-widget.php:149
+#: renovation/widgets/social-widget.php:154
+msgid "Link"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive.php:17
+msgid "Links"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Logo Width"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Main Hover Link Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Main Link Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Main Theme Settings"
+msgstr ""
+
+#. Text in echo
+#: renovation/functions.php:306
+msgid "Navigate to..."
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Navigation Border Bottom Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Navigation Current/Hover Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Navigation Hover Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Navigation Link Color"
+msgstr ""
+
+#. Text in function
+#: renovation/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/template-tags.php:77
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/template-tags.php:1
+msgid "Next &rsaquo;"
+msgstr ""
+
+#. Text in function
+#: renovation/image.php:45
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/template-tags.php:65
+msgid "Next Article <span>&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: renovation/content-single.php:59
+#: renovation/content.php:63
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: renovation/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:190
+#: renovation/widgets/latest-service-posts.php:190
+#: renovation/widgets/latest-portfolio-posts.php:190
+msgid "Number of Posts"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-blog-posts.php:182
+msgid "Number of columns (1-4)"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:194
+#: renovation/widgets/latest-service-posts.php:194
+#: renovation/widgets/latest-portfolio-posts.php:194
+msgid "Number of columns (2-4)"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/flickr-widget.php:110
+msgid "Number of flickr image to show"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-blog-posts.php:178
+msgid "Number of posts"
+msgstr ""
+
+#. Text in echo
+#: renovation/404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Page Title Background Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Page Title Font Color"
+msgstr ""
+
+#. Text in function
+#: renovation/content-blog-home.php:79
+#: renovation/content-page.php:19
+#: renovation/content-single.php:70
+#: renovation/content.php:79
+#: renovation/image.php:62
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Pagination Highlight Background"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Pagination Highlight Border"
+msgstr ""
+
+#. Text in echo
+#: renovation/inc/template-tags.php:170
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive-portfolio.php:17
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-portfolio-posts.php:198
+msgid "Portfolio Category Slug<br>(Leave blank to pull all posts)"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Portfolio posts per column (2-4)"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Portfolio posts per page"
+msgstr ""
+
+#. Text in echo
+#: renovation/inc/template-tags.php:60
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Primary Left Menu"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Primary Right Menu"
+msgstr ""
+
+#. Text in function
+#: renovation/image.php:27
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive.php:17
+msgid "Quotes"
+msgstr ""
+
+#. Text in function
+#: renovation/no-results.php:31
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: renovation/related-portfolio-posts.php:30
+msgid "Related Projects"
+msgstr ""
+
+#. Text in function
+#: renovation/search.php:14
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-service-posts.php:198
+msgid "Service Category Slug <br>(Leave blank to pull all posts)"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive-service.php:17
+msgid "Services"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Services posts per column (2-4)"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Services posts per page"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Set Navigation Fixed?"
+msgstr ""
+
+#. Text in function
+#: renovation/functions.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Slider/Secondary Button Background"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Slider/Secondary Button Font Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Slider/Secondary Button Hover Font Color"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Slider/Secondary Hover Button Background"
+msgstr ""
+
+#. Text in echo
+#: renovation/no-results.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:182
+#: renovation/widgets/latest-service-posts.php:182
+#: renovation/widgets/latest-blog-posts.php:160
+#: renovation/widgets/single-highlight.php:134
+#: renovation/widgets/latest-portfolio-posts.php:182
+msgid "Summary Text"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:198
+msgid "Testimonial Category Slug <br>(Leave blank to pull all posts)"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Testimonial posts per column (2-4)"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Testimonial posts per page"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive-testimonial.php:17
+msgid "Testimonials"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/social-widget.php:112
+msgid "Text Field"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Theme Logo"
+msgstr ""
+
+#. Text in function
+#: renovation/inc/customizer.php:1
+msgid "Theme Settings"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:177
+#: renovation/widgets/latest-service-posts.php:177
+#: renovation/widgets/latest-blog-posts.php:155
+#: renovation/widgets/single-highlight.php:128
+#: renovation/widgets/latest-portfolio-posts.php:178
+#: renovation/widgets/flickr-widget.php:100
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/social-widget.php:105
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: renovation/archive.php:17
+msgid "Videos"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:218
+#: renovation/widgets/latest-service-posts.php:218
+#: renovation/widgets/latest-blog-posts.php:202
+#: renovation/widgets/single-highlight.php:158
+#: renovation/widgets/latest-portfolio-posts.php:218
+msgid "Widget Background Color"
+msgstr ""
+
+#. Text in echo
+#: renovation/widgets/latest-testimonial-posts.php:224
+#: renovation/widgets/latest-service-posts.php:224
+#: renovation/widgets/latest-blog-posts.php:210
+#: renovation/widgets/single-highlight.php:166
+#: renovation/widgets/latest-portfolio-posts.php:224
+msgid "Widget Background Image"
+msgstr ""
+
+#. Text in echo
+#: renovation/no-results.php:14
+#: renovation/search.php:15
+msgid "You are here:"
+msgstr ""
+
+#. Text in echo
+#: renovation/inc/template-tags.php:132
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: renovation/inc/template-tags.php:202
+msgid "Your review is awaiting moderation."
+msgstr ""
